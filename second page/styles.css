@@ -3,6 +3,7 @@ body{
     /* flex-wrap: wrap; */
     position: relative;
     background-size: cover;
+    background-color: black;
 }
 
 .head{
